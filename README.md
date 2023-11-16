@@ -1,0 +1,1 @@
+# Datajourney El proyecto busca desarrollar un modelo enfocado en resolver el problema del impago en los préstamos para asi aumentar la rentabilidad y minimizar el riesgo de impago y pérdida de capital
